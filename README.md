@@ -2,7 +2,7 @@
 ## Welcome to my website !
 ### This is compilation of info about me, my latest project, and more
 ## About me:
-- 🔭 My name is Nazmi Ramadhan, I'm Social Media Specialist based in Bandung, I'm 22 years old, currently working for Beachylooks, I have expertise in the fields of Videography, Creating Content, And Social Media Specialist. I really like that digital can be a place to channel to the creative things i have, Making me an enthusiatic conceptualizer to jump into being an excecutor with high initiative and high responbility when working in a team.
+- 🔭 My name is Nazmi Ramadhan, I'm Social Media Specialist based in Bandung, I'm 22 years old, currently working for Beachylooks, I have expertise in the fields of Videography, Creating Content,Web Design And Social Media Specialist. I really like that digital can be a place to channel to the creative things i have, Making me an enthusiatic conceptualizer to jump into being an excecutor with high initiative and high responbility when working in a team.
 - 📫 How to reach me: nazmiramadhan022@gmail.com
 
 ## Education:
@@ -31,6 +31,7 @@
 [<img align="left" alt="Excel" width="30px" src="https://www.svgrepo.com/show/504600/microsoft-word.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://www.svgrepo.com/show/341861/google-ads.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/show/525335/figma.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/show/79506/excel-file.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -46,6 +47,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nazmirmdhn_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nazmirmdhn_#gh-dark-mode-only)
+[![website](./https://www.svgrepo.com/show/521749/medium.svg)]https://medium.com/@nazmirmdhn#gh-dark-mode-only)
 
 
 
