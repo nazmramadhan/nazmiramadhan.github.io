@@ -47,7 +47,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nazmirmdhn_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nazmirmdhn_#gh-dark-mode-only)
-[![website](./https://www.svgrepo.com/show/521749/medium.svg)]https://medium.com/@nazmirmdhn#gh-dark-mode-only)
 
 
 
