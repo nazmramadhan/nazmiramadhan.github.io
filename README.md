@@ -2,7 +2,7 @@
 ## Welcome to my website !
 ### This is compilation of info about me, my latest project, and more
 ## About me:
-- 🔭 My name is Nazmi Ramadhan, I'm Social Media Specialist based in Bandung, I'm 22 years old, currently working for Beachylooks (https://www.instagram.com/beachylooks/) I like minimal genre photography, graphic design, video editing and programming.
+- 🔭 My name is Nazmi Ramadhan, I'm Social Media Specialist based in Bandung, I'm 22 years old, currently working for Beachylooks (https://www.instagram.com/beachylooks/) I have expertise in the fields of Videography, Creating Content, And Social Media Specialist. I really like that digital can be a place to channel to the creative things i have, Making me an enthusiatic conceptualizer to jump into being an excecutor with high initiative and high responbility when working in a team.
 - 📫 How to reach me: nazmiramadhan022@gmail.com
 
 ## Education:
